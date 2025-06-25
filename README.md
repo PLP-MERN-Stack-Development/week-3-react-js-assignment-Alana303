@@ -10,31 +10,21 @@ This is a responsive React + Vite project for week 3 of the assignment, featurin
 
 ---
 
-## 🚀 Live Demo (GitHub Pages)
+# Week 3 React JS Assignment
 
-🔗 [View Live on GitHub Pages](https://yourusername.github.io/your-repo-name)
-
----
+🚀 **Live Demo**: [Click here to view the live project](https://plp-mern-stack-development.github.io/week-3-react-js-assignment-Alana303/)
 
 ## 📸 Screenshots
 
-### Home Page
-![Home](./screenshots/home.png)
+### 🌞 Light Mode
+![Light Mode](./screenshots/light-mode.png)
 
-### API Posts Page
-![Posts](./screenshots/posts.png)
+### 🌙 Dark Mode
+![Dark Mode](./screenshots/dark-mode.png)
 
-### Dark Mode Enabled
-![Dark Mode](./screenshots/darkmode.png)
+## 📦 Setup Instructions
 
-> 💡 Create a `/screenshots` folder and save 2–3 images in PNG or JPG format for this.
-
----
-
-## 🛠️ Setup Instructions
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Alana303.git
+   cd week-3-react-js-assignment-Alana303
